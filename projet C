@@ -1,0 +1,10 @@
+#incloude <stdio.h>
+#include <stdlib.h>
+int main ()
+{
+    int a,b;
+    printf("donner la valeur de a et b");
+    scanf("%d%d",&a,&b);
+    printf("la somme de %d et %d est %d",a,b,a+b);
+    return 0;
+}
