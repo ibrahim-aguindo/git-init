@@ -6,7 +6,7 @@ int main ()
     printf("donner la valeur de a et b");
     scanf("%d%d",&a,&b);
     printf("la somme de %d et %d est %d",a,b,a+b);
-    return 0;
+    
 printf("c'est le resultat");
 // calcul correct
 }
