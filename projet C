@@ -9,6 +9,10 @@ int main ()
     
 printf("c'est le resultat");
 // calcul correct
-}
+
+ if (a>b)
+    printf("le plus grand est %d",a);
+else
+    printf("le plus grand est %d",b);
 return 0;
 }
