@@ -15,5 +15,6 @@ printf("c'est le resultat");
 else
     printf("le plus grand est %d",b);
 // comparaison
+
 return 0;
 }
